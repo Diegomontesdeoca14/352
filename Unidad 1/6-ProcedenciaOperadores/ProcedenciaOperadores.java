@@ -1,8 +1,8 @@
-package com.mycompany.mavenproject4;
+package com.mycompany.ProcedenciaOperadores;
 
 import java.util.Scanner;
 
-public class Mavenproject4 {
+public class ProcedenciaOperadores {
 
    static double a=0,b=0,c=0,d=0,e=0,f=0,g=0,h=0,
             j=0,m=0,n=0,p=0,q=0,r=0,s=0,x=0,y=0;
